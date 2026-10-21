@@ -36,7 +36,7 @@ A double-sided digital memory card. On the front, a grid of photos brings togeth
 
 ```
 Postcard-Memories/
-├── Assets/
+├── assets/
 ├── index.html
 ├── style.css
 └── README.md
